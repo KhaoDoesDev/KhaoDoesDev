@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khao</h1>
-<h3 align="center">A Full Stack Programmer who uses <p href='https://google.com/'>Google<p> half the time.</h3>
+<h3 align="center">A Full Stack Programmer who uses <h3 align="center" href='https://google.com/'>Google<h3> half the time.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaogamermain01" alt="khaogamermain01" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **an Open Source [Cards Against Humanity Clone](https://github.com/CustomCardsAgainstHumanity/) using [ExpressJS](https://expressjs.com/) and [Socket.IO](https://socket.io/)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://twitter.com/khaoyt08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaoyt08" height="30" width="40" /></a>
 <a href="https://discord.gg/Khao#6715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Khao#6715" height="30" width="40" /></a>
