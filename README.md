@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khao</h1>
-<h3 align="center">A Full Stack Programmer who uses [Google](https://google.com/) half the time.</h3>
+<h3 align="center">A Full Stack Programmer who uses <p href='https://google.com/'>Google<p> half the time.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaogamermain01" alt="khaogamermain01" /></a> </p>
 
