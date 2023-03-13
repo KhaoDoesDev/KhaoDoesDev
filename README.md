@@ -15,4 +15,4 @@
 <a href="https://discord.gg/Khao#6715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Khao#6715" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaogamermain01&show_icons=true&locale=en" alt="khaogamermain01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaogamermain01&theme=dark&show_icons=true&locale=en" alt="khaogamermain01" /></p>
