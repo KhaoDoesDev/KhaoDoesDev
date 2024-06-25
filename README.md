@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a project releasing Q3/2024**
 
-- 🌱 I’m currently learning **Next.JS and Ollama**
+- 🌱 I’m currently learning **Ollama and Prompt Engineering**
 
-- 👯 I’m looking to collaborate on **Nothing currently.**
+- 👯 I’m looking to collaborate on **nothing currently.**
 
-- 🤝 I’m looking for help with **a project.**
+- 🤝 I’m looking for help with **absolutely nothing**
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaogamermain01&theme=dark&show_icons=true&locale=en" alt="khaogamermain01" /></p>
