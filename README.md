@@ -19,6 +19,8 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft Bots powered by LLMs](https://www.khaodoes.dev/blog/minecraft-bots-powered-by-llms)
+- [Hello World](https://www.khaodoes.dev/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
