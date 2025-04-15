@@ -19,6 +19,7 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My optinions on how to keep a Minecraft SMP alive](https://www.khaodoes.dev/blog/how-to-properly-keep-a-smp-alive)
 - [JS Try-Catch Kinda Sucks &lpar;but Rust got it right&rpar;](https://www.khaodoes.dev/blog/javascript-try-catch-kinda-sucks)
 - [Minecraft Bots powered by LLMs](https://www.khaodoes.dev/blog/minecraft-bots-powered-by-llms)
 - [Hello World](https://www.khaodoes.dev/blog/hello-world)
