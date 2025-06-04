@@ -2,15 +2,15 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 
 <p align="center">
-  🚀 <strong>Building cool things</strong> | 🤖 <strong>Automating everything</strong> | 🌱 <strong>Always learning</strong>
+  🚀 <strong>Building cool things</strong>
 </p>
 
 ---
 
 ### 🌟 About Me
 
-- 🔭 Currently working on **a project releasing Q3/2025**
-- 🌱 Learning **Microsoft Authentication**
+- 🔭 Currently working on **a Minecraft Server Sharding System.**
+- 🌱 Learning **FabricMC Modding**
 - 👯 Not looking to collaborate currently.
 - 🤝 Need help? Sorry, I got nothing for you. Try talking to LLMs.
 - 📂 Check out my **[Portfolio](https://www.khaodoes.dev/)**
