@@ -2,8 +2,8 @@
 
 ### 🌟 About Me
 
-- 🔭 Currently working on **a Personal-Use Minecraft Utility Client**
-- 🌱 Learning **FabricMC Modding**
+- 🔭 Currently working on **a Personal-Use Minecraft Utility Client** & **A Minecraft Bot Library in TypeScript**
+- 🌱 Learning **FabricMC Modding** & **The Minecraft Protocol**
 - 📂 Check out my **[Portfolio](https://www.khaodoes.dev/)**
 
 ---
