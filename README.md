@@ -1,14 +1,10 @@
-<h1 align="center">👋 Hey, I'm Khao!</h1>
+<h1 align="center">👋 hi, i'm khao</h1>
 
-### 🌟 About Me
-
-- 🔭 Currently working on **a Personal-Use Minecraft Utility Client** & **A Minecraft Bot Library in TypeScript**
-- 🌱 Learning **FabricMC Modding** & **The Minecraft Protocol**
-- 📂 Check out my **[Portfolio](https://www.khaodoes.dev/)**
+[website](https://www.khaodoes.dev/)
 
 ---
 
-### 📝 Latest Blog Posts
+### blog posts
 <!-- BLOG-POST-LIST:START -->
 - [how i got access to thousands of students&#39; credentials](https://www.khaodoes.dev/blog/how-i-got-access-to-thousands-of-students-credentials)
 - [minecraft bots research](https://www.khaodoes.dev/blog/minecraft-bots-research)
