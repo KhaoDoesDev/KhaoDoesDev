@@ -1,8 +1,6 @@
-<h1 align="center">👋 hi, i'm khao</h1>
+### hi, i'm khao
 
-[website](https://www.khaodoes.dev/)
-
----
+[portfolio](https://www.khaodoes.dev/)
 
 ### blog posts
 <!-- BLOG-POST-LIST:START -->
