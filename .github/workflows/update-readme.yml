@@ -25,4 +25,3 @@ jobs:
               <strong><a href="$url">$title</a></strong><br/>
               $description
             </div>
-            <br/>
