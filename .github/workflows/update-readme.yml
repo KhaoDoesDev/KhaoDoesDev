@@ -23,4 +23,4 @@ jobs:
             > <sub>$date</sub><br/>
             > **[$title]($url)**<br/>
             > $description
-            <br/>
+            >
