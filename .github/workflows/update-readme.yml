@@ -16,4 +16,7 @@ jobs:
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@1.9.3
         with:
-          feed_list: "https://www.khaodoes.dev/blog.rss"
+          feed_list: "https://khaodoes.dev/blog.rss"
+          date_format: "mmm dd, yyyy"
+          description_max_length: 180
+          template: "> <sub>$date</sub>$newline> **[$title]($url)**$newline> $description$newline$newline"
