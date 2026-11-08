@@ -19,4 +19,8 @@ jobs:
           feed_list: "https://khaodoes.dev/blog.rss"
           date_format: "mmm dd, yyyy"
           description_max_length: 180
-          template: "> <sub>$date</sub>$newline> **[$title]($url)**$newline> $description$newline$newline"
+          template: |
+            > <sub>$date</sub><br/>
+            > **[$title]($url)**<br/>
+            > $description
+            <br/>
